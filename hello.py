@@ -1,4 +1,4 @@
-# hello.py
+# HALLO hello.py
 import myname
 
 name = myname.get_name()
